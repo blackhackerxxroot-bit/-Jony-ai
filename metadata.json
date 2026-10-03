@@ -1,0 +1,6 @@
+{
+  "name": "BCS প্রস্তুতি",
+  "description": "সম্পূর্ণ পার্সোনালাইজড বিসিএস প্রস্তুতি প্ল্যাটফর্ম। স্টাডি ম্যাটেরিয়ালস, লাইব্রেরি, লাইভ এমসিকিউ প্র্যাকটিস, মক টেস্ট, প্রগ্রেস ট্র্যাকার ও সার্বক্ষণিক এআই টিউটর।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
